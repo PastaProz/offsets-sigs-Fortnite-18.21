@@ -1,3 +1,5 @@
+#offsets and sigs Fortnite latest update!
+
 offsets + sigs Fortnite 18.21
 
 latest update :
