@@ -1,4 +1,4 @@
-#[offsets and sigs Fortnite latest update!]
+Offsets and sigs Fortnite latest update!
 
 offsets + sigs Fortnite 18.21
 
@@ -146,3 +146,5 @@ BoostSteeringMultiplier 0x5AC
 LandSteeringMultiplier 0x5B4
 LandMinSpeedSteeringAngle 0x5B8
 LandMaxSpeedSteeringAngle 0x5BC
+
+Enjoy 
